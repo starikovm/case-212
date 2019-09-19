@@ -935,3 +935,4 @@
 | 889  | Давид Френкель                     | Fullstack Developer                     |
 | 890  | Алексей Маслаков                   | Frontend developer                      |
 | 891  | Пахомов Артем                      | Team Lead, Larixon Classifieds          |
+| 892  | Стариков Михаил                    | Frontend Engineer, METRO Markets GmbH   |
